@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "username": "janesmith",
+      "email": "jane.smith@example.com",
+      "phone": "098-765-4321",
+      "website": "www.janesmith.com"
+    }
+  ]
+}
